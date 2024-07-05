@@ -124,27 +124,4 @@ After restarting your computer
 
 8. Open a browser and go to: `http://127.0.0.1:8000/`
 
-9. Log In with your superuser credentials.
     
-
-## Contributing
-
-Contributions are always welcome!
-
-- Fork this repository;
-
-- Create a branch with your feature: `git checkout -b my-feature`;
-
-- Commit your changes: `git commit -m "feat: my new feature"`;
-
-- Push to your branch: `git push origin my-feature`.
-
-## Authors
-
-- [@betofleitass](https://www.github.com/betofleitass)
-
-##  License
-
-This project is under [MIT License.](https://choosealicense.com/licenses/mit/)
-
-[Back to top ⬆️](#django-point-of-sale-pos-)
